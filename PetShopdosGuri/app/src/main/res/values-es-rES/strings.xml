@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PetShop dos Guri</string>
+
+    <string name="rb_Sim">Sí</string>
+    <string name="rb_Nao">No</string>
+    <string name="btnAdicionar">Añadir Cliente</string>
+    <string name="txtNomeHint">Introduzca su nombre: </string>
+    <string name="txtNomeHintPet">Ingresa el nombre de tu mascota: </string>
+    <string name="txtNomeHintPhone">Ingrese su número telefónico: </string>
+    <string name="txtNomeHintEmail">Ingrese su dirección de correo electrónico: </string>
+    <string name="txtPromo">¿Aceptas recibir comunicaciones nuestras?</string>
+    <string name="btnSalvar">Guardar</string>
+    <string-array name="tipopet">
+    <item>Seleccione su tipo de mascota...</item>
+    </string-array>
+</resources>

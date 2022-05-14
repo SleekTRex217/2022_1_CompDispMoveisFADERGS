@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PetShop dos Guri</string>
+
+    <string name="rb_Sim">Yes</string>
+    <string name="rb_Nao">No</string>
+    <string name="btnAdicionar">Add Client</string>
+    <string name="txtNomeHint">Enter here your name: </string>
+    <string name="txtNomeHintPet">Enter here name your Pet: </string>
+    <string name="txtNomeHintPhone">Enter here name your Phone: </string>
+    <string name="txtNomeHintEmail">Enter here name your Email: </string>
+    <string name="txtPromo">You agree to receive communications from us?</string>
+    <string name="btnSalvar">Save</string>
+    <string-array name="tipopet">
+    <item>Select Pet type...</item>
+    </string-array>
+</resources>
